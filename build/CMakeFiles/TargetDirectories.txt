@@ -1,0 +1,1 @@
+/home/light1/Program_World/3rdPartyLibs/googletest/TestUnits/build/CMakeFiles/SoundExTest.dir
